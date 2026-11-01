@@ -1,0 +1,43 @@
+# AI tools: every assistant's own configuration, skills, agents and memory stay local
+.claude/
+CLAUDE.md
+.codex/
+AGENTS.md
+.cursor/
+.cursorrules
+.gemini/
+GEMINI.md
+.windsurf/
+.aider*
+.continue/
+.github/copilot-instructions.md
+
+# Working files: plans, third-party screenshots, agent reports, scratch
+tmp/
+.tmp/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
