@@ -36,7 +36,7 @@ A client that turns off verification to get past a certificate error still encry
 
 It bites at rollouts and rotations, on the second hop behind a proxy, and wherever a service acts for someone else.
 
-Unless a question says otherwise, everything here runs at its default settings, and nobody has added a retry, check, limit, job or tool that the question does not name.
+Each question names everything its team has set up. A retry, a health check, a limit or a background job that it does not mention is not there, and every setting keeps its default.
 
 This topic lets you:
 

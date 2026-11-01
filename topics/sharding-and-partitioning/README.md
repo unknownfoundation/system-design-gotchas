@@ -26,7 +26,7 @@ Five ways to place a key on a machine:
 
 The trouble sits around the key: one key too busy for its shard, a query that does not carry the key, a change that spans two shards, and the minutes while rows are moving.
 
-Unless a question says otherwise, everything here runs at its default settings, and nobody has added a retry, check, limit, job or tool that the question does not name.
+Each question names everything its team has set up. A retry, a health check, a limit or a background job that it does not mention is not there, and every setting keeps its default.
 
 This topic lets you:
 

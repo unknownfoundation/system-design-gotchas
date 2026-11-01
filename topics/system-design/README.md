@@ -24,7 +24,7 @@ Customers can share a store in three usual ways: shared tables with a tenant col
 
 Several of these places have a page of their own, and this one only names them: a payment longer than its hold ([Distributed locks and IDs](../distributed-locks-and-ids/README.md)), a write to a store and a broker together ([Event-driven architecture](../event-driven-architecture/README.md)), reading your own write ([Replication](../replication/README.md)), a hot key ([Sharding and partitioning](../sharding-and-partitioning/README.md)), retries that multiply ([Timeouts, retries and circuit breakers](../timeouts-retries-and-circuit-breakers/README.md)), and a cold cache ([Caching](../caching/README.md)).
 
-Unless a question says otherwise, everything here runs at its default settings, and nobody has added a retry, check, limit, job or tool that the question does not name.
+Each question names everything its team has set up. A retry, a health check, a limit or a background job that it does not mention is not there, and every setting keeps its default.
 
 This topic lets you:
 

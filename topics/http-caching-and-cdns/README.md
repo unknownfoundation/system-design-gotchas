@@ -32,7 +32,7 @@ A CDN also has settings and rules of its own, and makers differ on them. Unless 
 
 Most of this bites after a change: the origin holds one version, a copy somewhere holds another, and the headers set long before decide who sees which.
 
-Unless a question says otherwise, everything here runs at its default settings, and nobody has added a retry, check, limit, job or tool that the question does not name.
+Each question names everything its team has set up. A retry, a health check, a limit or a background job that it does not mention is not there, and every setting keeps its default.
 
 This topic lets you:
 

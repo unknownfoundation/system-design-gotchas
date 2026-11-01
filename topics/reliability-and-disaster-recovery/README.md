@@ -33,7 +33,7 @@ A DNS failover moves clients only as resolvers and clients ask again. Services i
 
 It bites in what a plan does not rehearse. A recovery leans on login, runbooks, pipelines, emergency access and status pages, and each can go down with what it repairs. A drill can be a talk through the plan, a dry run outside production, or a site cut off for real. The code that handles a failure rarely runs: a 2014 study of 198 failures in five systems found that simple testing of error handling could have prevented most of the catastrophic ones.
 
-Unless a question says otherwise, everything here runs at its default settings, and nobody has added a retry, check, limit, job or tool that the question does not name.
+Each question names everything its team has set up. A retry, a health check, a limit or a background job that it does not mention is not there, and every setting keeps its default.
 
 This topic lets you:
 

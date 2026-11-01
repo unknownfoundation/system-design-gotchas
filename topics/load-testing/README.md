@@ -38,7 +38,7 @@ One run is one sample: the same test repeated gives other numbers, more so on sh
 
 A request a run never sent, a limit it never reached, a fault it never met and a node it never lost all stay unknown after a pass.
 
-Unless a question says otherwise, everything here runs at its default settings, and nobody has added a retry, check, limit, job or tool that the question does not name.
+Each question names everything its team has set up. A retry, a health check, a limit or a background job that it does not mention is not there, and every setting keeps its default.
 
 This topic lets you:
 

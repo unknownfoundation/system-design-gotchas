@@ -32,7 +32,7 @@ A cycle of required calls that survives rolling restarts can stop a cold start, 
 
 Most of the trouble comes from a call that used to be a line of code and now crosses a network, and from what two services still share after the split.
 
-Unless a question says otherwise, everything here runs at its default settings, and nobody has added a retry, check, limit, job or tool that the question does not name.
+Each question names everything its team has set up. A retry, a health check, a limit or a background job that it does not mention is not there, and every setting keeps its default.
 
 This topic lets you:
 

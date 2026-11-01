@@ -28,7 +28,7 @@ A queue told to keep order per key holds a key's later messages behind an unackn
 
 A queue evens out a burst for what stands behind it, and most trouble here comes from reading a broker's words as promises about your work. [Event-driven architecture](../event-driven-architecture/README.md) takes up the dual write, the outbox and what a replay does to its effects, and [Replication](../replication/README.md) how many copies a broker waits for.
 
-Unless a question says otherwise, everything here runs at its default settings, and nobody has added a retry, check, limit, job or tool that the question does not name.
+Each question names everything its team has set up. A retry, a health check, a limit or a background job that it does not mention is not there, and every setting keeps its default.
 
 This topic lets you:
 

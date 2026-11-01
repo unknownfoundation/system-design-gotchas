@@ -36,7 +36,7 @@ Code in a browser page cannot add its own headers to the handshake, so a token g
 
 The trouble comes when many connections change at once, and when a quiet connection is taken to mean more than it does.
 
-Unless a question says otherwise, everything here runs at its default settings, and nobody has added a retry, check, limit, job or tool that the question does not name.
+Each question names everything its team has set up. A retry, a health check, a limit or a background job that it does not mention is not there, and every setting keeps its default.
 
 This topic lets you:
 
